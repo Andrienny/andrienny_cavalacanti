@@ -59,6 +59,4 @@
 
 ⭐ "Transformando ideias em código e dados em soluções."
 
----
 
-⭐ "Transformando ideias em código e dados em soluções."
