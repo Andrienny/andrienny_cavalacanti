@@ -1,4 +1,3 @@
-}
 # 👩‍💻 Andrienny Carolayne  
 
 <p align="center">
@@ -8,7 +7,8 @@
 ---
 
 <p align="center">
-  🇧🇷 Português | 🇺🇸 English
+  <img src="https://flagcdn.com/w40/br.png" width="20"/> Português   |  
+  <img src="https://flagcdn.com/w40/us.png" width="20"/> English
 </p>
 
 ---
@@ -83,8 +83,8 @@ I enjoy turning ideas into real-world solutions through programming and data.
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andrienny_cavalacanti&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrienny_cavalacanti&layout=compact&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andrienny-cavalcanti&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrienny-cavalcanti&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -92,7 +92,7 @@ I enjoy turning ideas into real-world solutions through programming and data.
 ## 🔥 Streak  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=andrienny_cavalacanti&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=andrienny-cavalcanti&theme=tokyonight"/>
 </p>
 
 ---
@@ -100,12 +100,11 @@ I enjoy turning ideas into real-world solutions through programming and data.
 ## 🌐 Contato | Contact  
 
 <p align="center">
-  📧 seu-email-aqui <br>
-  💼 LinkedIn (adicione aqui)
+  📧 andriennycavalcanti@gmail.com  
 </p>
 
 ---
 
 <p align="center">
   ⭐ "Transformando ideias em código e dados em soluções." <br>
-  ⭐ "Turning ideas into code and data into solution
+  ⭐ "Turning ideas into code and data into solutions."
