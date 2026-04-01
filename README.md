@@ -7,58 +7,64 @@
 
 ---
 
-# 🇧🇷 Sobre mim  
+<p align="center">
+  🇧🇷 Português | 🇺🇸 English
+</p>
+
+---
+
+## 🇧🇷 Sobre mim  
 
 🎓 Estudante de Ciências de Dados e Inteligência Artificial - UFPB  
 🎮 Técnica em Desenvolvimento de Jogos Digitais  
 🤖 Fascinada por Inteligência Artificial e Redes Neurais  
 📈 Interessada em análise de dados e investimentos  
 
-💡 Sou apaixonada por tecnologia e movida por aprendizado constante.  
+💡 Apaixonada por tecnologia e movida por aprendizado constante.  
 Busco transformar ideias em soluções reais através da programação e dos dados.  
 
 ---
 
-# 🇺🇸 About Me  
+## 🇺🇸 About Me  
 
 🎓 Data Science and Artificial Intelligence Student - UFPB  
 🎮 Technical Degree in Digital Game Development  
 🤖 Passionate about Artificial Intelligence and Neural Networks  
 📈 Interested in Data Analysis and Investments  
 
-💡 I am passionate about technology and driven by continuous learning.  
+💡 Passionate about technology and driven by continuous learning.  
 I enjoy turning ideas into real-world solutions through programming and data.  
 
 ---
 
 ## 🧠 Áreas de Interesse | Areas of Interest  
 
-🤖 Inteligência Artificial | Artificial Intelligence  
-🧠 Redes Neurais | Neural Networks  
-📊 Ciência de Dados | Data Science  
-🎮 Desenvolvimento de Jogos | Game Development  
-📈 Investimentos e Dados | Investments & Data Analysis  
+<p align="center">
+🤖 Inteligência Artificial • Artificial Intelligence <br>
+🧠 Redes Neurais • Neural Networks <br>
+📊 Ciência de Dados • Data Science <br>
+🎮 Desenvolvimento de Jogos • Game Development <br>
+📈 Investimentos • Investments
+</p>
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### 💻 Linguagens | Languages  
-<p>
-  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c">
-  <img src="https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp">
-</p>
+<p align="center">
 
-### ⚙️ Ferramentas | Tools  
-<p>
-  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c">
+<img src="https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp">
+<br><br>
+<img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
+
 </p>
 
 ---
 
-## 📂 Projetos em Destaque | Featured Projects  
+## 📂 Projetos | Projects  
 
 🚗 Sistema de Rastreamento de Veículos (em desenvolvimento)  
 🚗 Vehicle Tracking System (in development)  
@@ -91,15 +97,15 @@ I enjoy turning ideas into real-world solutions through programming and data.
 
 ---
 
-## 🌐 Contato | Connect with me  
+## 🌐 Contato | Contact  
 
-📧 seu-email-aqui  
-💼 LinkedIn (adicione aqui)  
+<p align="center">
+  📧 seu-email-aqui <br>
+  💼 LinkedIn (adicione aqui)
+</p>
 
 ---
 
 <p align="center">
-  ⭐ "Transformando ideias em código e dados em soluções."  
-  <br>
-  ⭐ "Turning ideas into code and data into solutions
-
+  ⭐ "Transformando ideias em código e dados em soluções." <br>
+  ⭐ "Turning ideas into code and data into solution
